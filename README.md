@@ -1,4 +1,4 @@
-# LeetCode-
+# LeetCode-Solutions
 
 A collection of my Python solutions to [LeetCode](https://leetcode.com/) problems, written while practicing data structures, algorithms, and problem-solving for technical interviews.
 
